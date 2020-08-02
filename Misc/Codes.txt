@@ -1,0 +1,18 @@
+10 = field
+11 = sand
+12 = grass
+13 = corn
+14 = stillwater
+15 = forest
+16 = horizontal fence
+17 = vertical fence
+18 = fence down right
+19 = stone 
+110 = fence down left
+111 = fence up right
+112 = fence up left
+113 = carrot plant
+
+
+
+
